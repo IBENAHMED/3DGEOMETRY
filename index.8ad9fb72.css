@@ -1,0 +1,2 @@
+body{box-sizing:border-box;margin:0;padding:0;overflow:hidden}#first{position:absolute}nav{color:#fff;z-index:2;justify-content:space-around;align-items:center;padding:10px 0;font-weight:700;display:flex;position:relative}nav a{color:#fff;text-decoration:none}nav a:hover{color:#eee}nav ul{justify-content:space-between;gap:4rem;list-style:none;display:flex}nav ul li:hover{color:#eee;cursor:pointer}h1{z-index:2;color:#fff;font-weight:700;position:absolute;top:85%;left:50%;transform:translate(-50%,-50%)}
+/*# sourceMappingURL=index.8ad9fb72.css.map */
